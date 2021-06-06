@@ -40,3 +40,4 @@ data_dict={
 }
 our_data=pd.DataFrame(data_dict)
 print(our_data)
+our_data.to_csv("squirrels_count.csv")

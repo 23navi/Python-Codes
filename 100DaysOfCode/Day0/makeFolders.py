@@ -5,3 +5,5 @@ for i in range(1,101):
     path=os.path.join(parent, directory)
     os.mkdir(path)
     print(f"created day{i}")
+    
+    #hellooooooo
